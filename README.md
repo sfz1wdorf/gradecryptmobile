@@ -1,4 +1,4 @@
-Safe way of distributing Grades to students, for only them to read
+Safe way of receiving grades for only you to read
 
 How to compile:
 ###############################
